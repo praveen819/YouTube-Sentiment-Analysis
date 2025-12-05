@@ -37,5 +37,4 @@ The model achieves **94% accuracy** on the dataset.
 
 ---
 
-## 📁 Repository Structure
 
